@@ -13,7 +13,8 @@ I am 21 years old and from Uzbekistan. Now I am a 4th year student at St. Peters
 + Python
 + Java
 + Git
-+ SQL 
++ SQL
++ Vue
 
 ## Code example
 
